@@ -2,10 +2,12 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="d368d95e-eff2-46b6-8c6d-e22ca61ae5f8" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/hw4/number_5.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hw5/number_1.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hw5/number_2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hw5/number_3.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hw5/number_4.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hw5/number_5.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/hw4/number_4.py" beforeDir="false" afterPath="$PROJECT_DIR$/hw4/number_4.py" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -15,20 +17,21 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="CoverageDataManager">
-    <SUITE FILE_PATH="coverage/bern$number_1.coverage" NAME="number_1 Coverage Results" MODIFIED="1640155261352" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/hw3" />
-    <SUITE FILE_PATH="coverage/bern$number_3.coverage" NAME="number_3 Coverage Results" MODIFIED="1640157389180" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/hw3" />
-    <SUITE FILE_PATH="coverage/bern$number_4.coverage" NAME="number_4 Coverage Results" MODIFIED="1640158904742" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/hw3" />
+    <SUITE FILE_PATH="coverage/bern$number_1.coverage" NAME="number_1 Coverage Results" MODIFIED="1640174093220" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/hw5" />
+    <SUITE FILE_PATH="coverage/bern$number_3.coverage" NAME="number_3 Coverage Results" MODIFIED="1640177157392" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/hw5" />
+    <SUITE FILE_PATH="coverage/bern$number_4.coverage" NAME="number_4 Coverage Results" MODIFIED="1640179338575" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/hw5" />
     <SUITE FILE_PATH="coverage/bern$number_2__1_.coverage" NAME="number_2 (1) Coverage Results" MODIFIED="1640168462064" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/hw4" />
-    <SUITE FILE_PATH="coverage/bern$number_2.coverage" NAME="number_2 Coverage Results" MODIFIED="1640155540818" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/hw3" />
-    <SUITE FILE_PATH="coverage/bern$number_5.coverage" NAME="number_5 Coverage Results" MODIFIED="1640159530067" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/hw3" />
     <SUITE FILE_PATH="coverage/bern$number_3__1_.coverage" NAME="number_3 (1) Coverage Results" MODIFIED="1640168845053" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/hw4" />
+    <SUITE FILE_PATH="coverage/bern$number_2.coverage" NAME="number_2 Coverage Results" MODIFIED="1640175249123" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/hw5" />
+    <SUITE FILE_PATH="coverage/bern$number_5.coverage" NAME="number_5 Coverage Results" MODIFIED="1640179860617" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/hw5" />
     <SUITE FILE_PATH="coverage/bern$number_4__1_.coverage" NAME="number_4 (1) Coverage Results" MODIFIED="1640171889701" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/hw4" />
     <SUITE FILE_PATH="coverage/bern$number_1__1_.coverage" NAME="number_1 (1) Coverage Results" MODIFIED="1640160107166" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/hw4" />
+    <SUITE FILE_PATH="coverage/bern$number_5__1_.coverage" NAME="number_5 (1) Coverage Results" MODIFIED="1640173307080" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/hw4" />
   </component>
   <component name="FileEditorManager">
     <leaf>
       <file leaf-file-name="number_1.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/hw4/number_1.py">
+        <entry file="file://$PROJECT_DIR$/hw5/number_1.py">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="75">
               <caret line="5" lean-forward="true" selection-start-line="5" selection-end-line="5" />
@@ -37,7 +40,7 @@
         </entry>
       </file>
       <file leaf-file-name="number_2.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/hw4/number_2.py">
+        <entry file="file://$PROJECT_DIR$/hw5/number_2.py">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="105">
               <caret line="7" lean-forward="true" selection-start-line="7" selection-end-line="7" />
@@ -46,37 +49,28 @@
         </entry>
       </file>
       <file leaf-file-name="number_3.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/hw4/number_3.py">
+        <entry file="file://$PROJECT_DIR$/hw5/number_3.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="30">
-              <caret line="2" column="12" lean-forward="true" selection-start-line="2" selection-start-column="12" selection-end-line="2" selection-end-column="12" />
+            <state relative-caret-position="120">
+              <caret line="8" lean-forward="true" selection-start-line="8" selection-end-line="8" />
             </state>
           </provider>
         </entry>
       </file>
       <file leaf-file-name="number_4.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/hw4/number_4.py">
+        <entry file="file://$PROJECT_DIR$/hw5/number_4.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="150">
-              <caret line="10" lean-forward="true" selection-start-line="10" selection-end-line="10" />
+            <state relative-caret-position="165">
+              <caret line="11" lean-forward="true" selection-start-line="11" selection-end-line="11" />
             </state>
           </provider>
         </entry>
       </file>
       <file leaf-file-name="number_5.py" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/hw4/number_5.py">
+        <entry file="file://$PROJECT_DIR$/hw5/number_5.py">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="75">
-              <caret line="5" column="18" selection-start-line="5" selection-start-column="18" selection-end-line="5" selection-end-column="18" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name=".gitignore" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/.gitignore">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="45">
-              <caret line="3" lean-forward="true" selection-start-line="3" selection-end-line="3" />
+              <caret line="5" lean-forward="true" selection-start-line="5" selection-end-line="5" />
             </state>
           </provider>
         </entry>
@@ -100,6 +94,11 @@
         <option value="$PROJECT_DIR$/.gitignore" />
         <option value="$PROJECT_DIR$/hw4/number_4.py" />
         <option value="$PROJECT_DIR$/hw4/number_5.py" />
+        <option value="$PROJECT_DIR$/hw5/number_1.py" />
+        <option value="$PROJECT_DIR$/hw5/number_2.py" />
+        <option value="$PROJECT_DIR$/hw5/number_3.py" />
+        <option value="$PROJECT_DIR$/hw5/number_4.py" />
+        <option value="$PROJECT_DIR$/hw5/number_5.py" />
       </list>
     </option>
   </component>
@@ -141,6 +140,11 @@
               <item name="bern" type="462c0819:PsiDirectoryNode" />
               <item name="hw4" type="462c0819:PsiDirectoryNode" />
             </path>
+            <path>
+              <item name="bern" type="b2602c69:ProjectViewProjectNode" />
+              <item name="bern" type="462c0819:PsiDirectoryNode" />
+              <item name="hw5" type="462c0819:PsiDirectoryNode" />
+            </path>
           </expand>
           <select />
         </subPane>
@@ -166,8 +170,8 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.number_4 (1)">
-    <configuration name="number_1 (1)" type="PythonConfigurationType" factoryName="Python" temporary="true">
+  <component name="RunManager" selected="Python.number_5">
+    <configuration name="number_1" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="bern" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -175,18 +179,18 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/hw4" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/hw5" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/hw4/number_1.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/hw5/number_1.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
       <option name="MODULE_MODE" value="false" />
     </configuration>
-    <configuration name="number_2 (1)" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="number_2" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="bern" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -194,18 +198,18 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/hw4" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/hw5" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/hw4/number_2.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/hw5/number_2.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
       <option name="MODULE_MODE" value="false" />
     </configuration>
-    <configuration name="number_3 (1)" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="number_3" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="bern" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -213,18 +217,18 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/hw4" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/hw5" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/hw4/number_3.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/hw5/number_3.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
       <option name="MODULE_MODE" value="false" />
     </configuration>
-    <configuration name="number_4 (1)" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="number_4" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="bern" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -232,12 +236,12 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/hw4" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/hw5" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/hw4/number_4.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/hw5/number_4.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -251,31 +255,31 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/hw3" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/hw5" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/hw3/number_5.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/hw5/number_5.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
       <option name="MODULE_MODE" value="false" />
     </configuration>
     <list>
+      <item itemvalue="Python.number_1" />
+      <item itemvalue="Python.number_2" />
+      <item itemvalue="Python.number_3" />
+      <item itemvalue="Python.number_4" />
       <item itemvalue="Python.number_5" />
-      <item itemvalue="Python.number_1 (1)" />
-      <item itemvalue="Python.number_2 (1)" />
-      <item itemvalue="Python.number_3 (1)" />
-      <item itemvalue="Python.number_4 (1)" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.number_4 (1)" />
-        <item itemvalue="Python.number_3 (1)" />
-        <item itemvalue="Python.number_2 (1)" />
-        <item itemvalue="Python.number_1 (1)" />
         <item itemvalue="Python.number_5" />
+        <item itemvalue="Python.number_4" />
+        <item itemvalue="Python.number_3" />
+        <item itemvalue="Python.number_2" />
+        <item itemvalue="Python.number_1" />
       </list>
     </recent_temporary>
   </component>
@@ -294,21 +298,20 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="1336" y="27" width="1224" height="997" extended-state="6" />
-    <editor active="true" />
     <layout>
       <window_info anchor="bottom" id="TODO" order="6" />
       <window_info anchor="bottom" id="Event Log" side_tool="true" />
       <window_info anchor="bottom" id="Database Changes" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.32905483" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.32905483" />
       <window_info anchor="bottom" id="Version Control" />
       <window_info anchor="bottom" id="Python Console" />
       <window_info anchor="bottom" id="Terminal" weight="0.3302217" />
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.24957556" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.24957556" />
       <window_info anchor="bottom" id="Docker" show_stripe_button="false" />
       <window_info anchor="right" id="Database" />
       <window_info anchor="right" id="SciView" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
-      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.3990665" />
       <window_info id="Favorites" side_tool="true" />
       <window_info anchor="bottom" id="Find" order="1" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
@@ -348,6 +351,21 @@
   <component name="VcsContentAnnotationSettings">
     <option name="myLimit" value="2678400000" />
   </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/hw5/number_2.py</url>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/hw5/number_4.py</url>
+          <option name="timeStamp" value="3" />
+        </line-breakpoint>
+      </breakpoints>
+      <option name="time" value="4" />
+    </breakpoint-manager>
+  </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/hw3/number_1.py">
       <provider selected="true" editor-type-id="text-editor">
@@ -363,41 +381,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/hw3/number_3.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="45">
-          <caret line="3" column="47" lean-forward="true" selection-start-line="3" selection-start-column="47" selection-end-line="3" selection-end-column="47" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/hw3/number_5.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="60">
-          <caret line="4" column="58" lean-forward="true" selection-start-line="4" selection-start-column="58" selection-end-line="4" selection-end-column="58" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/hw3/number_4.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="45">
-          <caret line="3" column="52" lean-forward="true" selection-start-line="3" selection-start-column="52" selection-end-line="3" selection-end-column="52" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/hw4/number_1.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="75">
-          <caret line="5" lean-forward="true" selection-start-line="5" selection-end-line="5" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/hw4/number_2.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="105">
-          <caret line="7" lean-forward="true" selection-start-line="7" selection-end-line="7" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/hw4/.gitignore">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
@@ -408,6 +391,13 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/hw4/number_1.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="75">
+          <caret line="5" lean-forward="true" selection-start-line="5" selection-end-line="5" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/hw4/number_4.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="150">
@@ -415,17 +405,80 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/hw4/number_3.py">
+    <entry file="file://$PROJECT_DIR$/hw4/number_5.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="30">
-          <caret line="2" column="12" lean-forward="true" selection-start-line="2" selection-start-column="12" selection-end-line="2" selection-end-column="12" />
+        <state relative-caret-position="150">
+          <caret line="10" lean-forward="true" selection-start-line="10" selection-end-line="10" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/hw4/number_5.py">
+    <entry file="file://$PROJECT_DIR$/hw3/number_3.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="45">
+          <caret line="3" column="47" lean-forward="true" selection-start-line="3" selection-start-column="47" selection-end-line="3" selection-end-column="47" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/hw3/number_4.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="45">
+          <caret line="3" column="52" lean-forward="true" selection-start-line="3" selection-start-column="52" selection-end-line="3" selection-end-column="52" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/hw3/number_5.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="60">
+          <caret line="4" column="58" lean-forward="true" selection-start-line="4" selection-start-column="58" selection-end-line="4" selection-end-column="58" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/hw4/number_2.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="105">
+          <caret line="7" lean-forward="true" selection-start-line="7" selection-end-line="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/hw4/number_3.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="90">
+          <caret line="6" lean-forward="true" selection-start-line="6" selection-end-line="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/hw5/number_1.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="75">
-          <caret line="5" column="18" selection-start-line="5" selection-start-column="18" selection-end-line="5" selection-end-column="18" />
+          <caret line="5" lean-forward="true" selection-start-line="5" selection-end-line="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/hw5/number_2.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="105">
+          <caret line="7" lean-forward="true" selection-start-line="7" selection-end-line="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/hw5/number_3.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="120">
+          <caret line="8" lean-forward="true" selection-start-line="8" selection-end-line="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/hw5/number_4.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="165">
+          <caret line="11" lean-forward="true" selection-start-line="11" selection-end-line="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/hw5/number_5.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="75">
+          <caret line="5" lean-forward="true" selection-start-line="5" selection-end-line="5" />
         </state>
       </provider>
     </entry>
